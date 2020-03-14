@@ -12,7 +12,9 @@ See the working example at https://iftee.github.io/react-cocktail-database/
 - Start the development server.
 
 ## Current Limitation
-Opening a link in new tab will take the new tab to Home page. This is a GitHub Pages limitation and will not occur when you work on local server or deploy to the root of a custom domain.
+Opening a link in new tab will take the new tab to Home page. This is a GitHub Pages limitation after patching the 404 issue as per the [instrusctions](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) from Create React App.
+
+This will not occur when you work on local server or deploy to the root of a custom domain.
 
 ## Future Plans
 When I have free time:
