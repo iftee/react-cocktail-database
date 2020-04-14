@@ -62,8 +62,8 @@ export const App = () => {
   return(
     <MuiThemeProvider theme={muiTheme}>
       <CssBaseline />
-      <Router>
-      {/* <Router basename="/react-cocktail-database/"> */}
+      {/* <Router> */}
+      <Router basename="/react-cocktail-database/">
       {/* basename="/react-cocktail-database/" for deploying to my github pages, empty when deploying to server root */}    
         <AppHeader toggleTheme={toggleTheme} toggleThemeIcon={toggleThemeIcon} />
         <Switch>
