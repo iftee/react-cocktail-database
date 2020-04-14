@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd385197b4eaaa98cbd66903c7b95f54",
+    "revision": "598c02aca28739884d51ce143ff3f7d9",
     "url": "/react-cocktail-database/index.html"
   },
   {
