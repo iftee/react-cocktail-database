@@ -1,7 +1,12 @@
-![](https://repository-images.githubusercontent.com/247062691/88817600-6556-11ea-83e6-5f6ffe6294f4)
-# React Movie Database
+![Github Social](https://repository-images.githubusercontent.com/247062691/14e51100-8173-11ea-921e-9d666307b7a6)
+# React Cocktail Database
 A React application for viewing recipes of drinks and cocktails from around the world with the help of [TheCocktailDB](https://www.thecocktaildb.com).
+
 See the working example at https://iftee.github.io/react-cocktail-database/
+
+![Screenshot 1](public/screenshot-1.png)
+
+![Screenshot 2](public/screenshot-2.png)
 
 ## Features
 - Search and view recipes of drinks and cocktails from around the world.
