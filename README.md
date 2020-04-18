@@ -4,10 +4,6 @@ A React application for viewing recipes of drinks and cocktails from around the 
 
 See the working example at https://iftee.github.io/react-cocktail-database/
 
-![Screenshot 1](public/screenshot-1.png)
-
-![Screenshot 2](public/screenshot-2.png)
-
 ## Features
 - Search and view recipes of drinks and cocktails from around the world.
 - Peristant regular and dark mode.
@@ -30,3 +26,9 @@ When I have free time:
 - [TheCocktailDB API v1](https://www.thecocktaildb.com/api.php) to fetch data from
 - Material Design through [React Bulma Components](https://material-ui.com) to make styled layout
 - [React Routers](https://github.com/ReactTraining/react-router) to make the application routes
+
+## Screenshots
+
+![Screenshot 1](public/screenshot-1.png)
+
+![Screenshot 2](public/screenshot-2.png)
