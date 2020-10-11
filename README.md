@@ -19,7 +19,7 @@ npm run start
 ```
 To create a production build, use
 ```shell
-npm run start
+npm run build
 ```
 To deploy at `github-pages` environmet, use
 ```shell
