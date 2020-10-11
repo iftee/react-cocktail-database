@@ -1,4 +1,4 @@
-![Github Social](https://repository-images.githubusercontent.com/247062691/14e51100-8173-11ea-921e-9d666307b7a6)
+![Github Social](https://repository-images.githubusercontent.com/247062691/c82b4180-0bbb-11eb-8bfd-560e25ed7c7b)
 # React Cocktail Database
 A React application for viewing recipes of drinks and cocktails from around the world with the help of [TheCocktailDB](https://www.thecocktaildb.com).
 
@@ -9,8 +9,22 @@ See the working example at https://iftee.github.io/react-cocktail-database/
 - Peristant regular and dark mode.
 
 ## Developer Instruction
-- Install all Node dependencies.
-- Start the development server.
+For a fresh got clone, to install all node dependencies, use
+```shell
+npm install
+```
+To start the development server, use
+```shell
+npm run start
+```
+To create a production build, use
+```shell
+npm run start
+```
+To deploy at `github-pages` environmet, use
+```shell
+npm run deploy
+```
 
 ## Current Limitation
 Opening a link in new tab will take the new tab to Home page. This is a GitHub Pages limitation after patching the 404 issue as per the [instrusctions](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) from Create React App.

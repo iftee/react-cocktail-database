@@ -37,7 +37,7 @@ export const ArtNoCocktail = () => {
     <Fade in={true}>
       <Box component="div" className={classes.root}>
         <img src={NoCocktailSVG} alt="Search for cocktail recipes." width="270" className={classes.img} />
-        <p className={classes.p}>Sorry! We don not have that cocktail.</p>
+        <p className={classes.p}>Sorry! We do not have that cocktail. :(</p>
       </Box>
     </Fade>
   );
