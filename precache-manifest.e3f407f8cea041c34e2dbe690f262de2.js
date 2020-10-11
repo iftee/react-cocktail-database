@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dc214fe84424c956b0b40542f3b0dc0",
+    "revision": "915338d0b823a44247515895a9a26b1c",
     "url": "/react-cocktail-database/index.html"
   },
   {
@@ -12,20 +12,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-cocktail-database/static/js/2.84928336.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d930f83f9c26b0736f65",
-    "url": "/react-cocktail-database/static/js/main.98c24599.chunk.js"
+    "revision": "205ac5dcaaddb002a6fd",
+    "url": "/react-cocktail-database/static/js/main.0d44cc74.chunk.js"
   },
   {
     "revision": "fb82df8ed1748e43b35c",
     "url": "/react-cocktail-database/static/js/runtime-main.3689e2fa.js"
   },
   {
-    "revision": "0a8638b390d58132d7f8d4c784331bb3",
-    "url": "/react-cocktail-database/static/media/home.0a8638b3.svg"
+    "revision": "473eb239909431f32621c4f56f45e087",
+    "url": "/react-cocktail-database/static/media/home.473eb239.svg"
   },
   {
-    "revision": "5529ee2bbf02b6ffd14aa67bc93b6f64",
-    "url": "/react-cocktail-database/static/media/noCocktail.5529ee2b.svg"
+    "revision": "807a25ab355db58004fbef56eb411cb5",
+    "url": "/react-cocktail-database/static/media/noCocktail.807a25ab.svg"
   },
   {
     "revision": "d185a4576670f449feaf292b636e0279",

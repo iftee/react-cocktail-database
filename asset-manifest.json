@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/react-cocktail-database/static/js/main.98c24599.chunk.js",
-    "main.js.map": "/react-cocktail-database/static/js/main.98c24599.chunk.js.map",
+    "main.js": "/react-cocktail-database/static/js/main.0d44cc74.chunk.js",
+    "main.js.map": "/react-cocktail-database/static/js/main.0d44cc74.chunk.js.map",
     "runtime-main.js": "/react-cocktail-database/static/js/runtime-main.3689e2fa.js",
     "runtime-main.js.map": "/react-cocktail-database/static/js/runtime-main.3689e2fa.js.map",
     "static/js/2.84928336.chunk.js": "/react-cocktail-database/static/js/2.84928336.chunk.js",
     "static/js/2.84928336.chunk.js.map": "/react-cocktail-database/static/js/2.84928336.chunk.js.map",
     "index.html": "/react-cocktail-database/index.html",
-    "precache-manifest.412b9e9676f115865fc06d5ee78bbd0b.js": "/react-cocktail-database/precache-manifest.412b9e9676f115865fc06d5ee78bbd0b.js",
+    "precache-manifest.e3f407f8cea041c34e2dbe690f262de2.js": "/react-cocktail-database/precache-manifest.e3f407f8cea041c34e2dbe690f262de2.js",
     "service-worker.js": "/react-cocktail-database/service-worker.js",
     "static/js/2.84928336.chunk.js.LICENSE.txt": "/react-cocktail-database/static/js/2.84928336.chunk.js.LICENSE.txt",
-    "static/media/home.svg": "/react-cocktail-database/static/media/home.0a8638b3.svg",
-    "static/media/noCocktail.svg": "/react-cocktail-database/static/media/noCocktail.5529ee2b.svg",
+    "static/media/home.svg": "/react-cocktail-database/static/media/home.473eb239.svg",
+    "static/media/noCocktail.svg": "/react-cocktail-database/static/media/noCocktail.807a25ab.svg",
     "static/media/notFound.svg": "/react-cocktail-database/static/media/notFound.d185a457.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3689e2fa.js",
     "static/js/2.84928336.chunk.js",
-    "static/js/main.98c24599.chunk.js"
+    "static/js/main.0d44cc74.chunk.js"
   ]
 }
