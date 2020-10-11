@@ -9,7 +9,7 @@ See the working example at https://iftee.github.io/react-cocktail-database/
 - Peristant regular and dark mode.
 
 ## Developer Instruction
-For a fresh got clone, to install all node dependencies, use
+After a fresh `git clone`, to install all node dependencies, use
 ```shell
 npm install
 ```
@@ -25,11 +25,6 @@ To deploy at `github-pages` environmet, use
 ```shell
 npm run deploy
 ```
-
-## Current Limitation
-Opening a link in new tab will take the new tab to Home page. This is a GitHub Pages limitation after patching the 404 issue as per the [instrusctions](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) from Create React App.
-
-This will not occur when you work on local server or deploy to the root of a custom domain.
 
 ## Future Plans
 When I have free time:
